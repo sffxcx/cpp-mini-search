@@ -1,0 +1,53 @@
+--- .gitignore (原始)
+
+
++++ .gitignore (修改后)
+```
+# Build artifacts
+CMakeFiles/
+cmake-build-*/
+Makefile
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+build/
+dist/
+
+# Dependencies
+vendor/
+.externalNativeBuild/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+htmlcov/
+.coverage
+
+# CMake specific
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+```
