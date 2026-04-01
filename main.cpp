@@ -1,7 +1,4 @@
---- MiniSearch/src/main.cpp (原始)
-
-
-+++ MiniSearch/src/main.cpp (修改后)
+main.cpp
 #include <iostream>
 #include <string>
 #include <thread>
