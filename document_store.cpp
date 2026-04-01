@@ -1,7 +1,4 @@
---- MiniSearch/src/document_store.cpp (原始)
-
-
-+++ MiniSearch/src/document_store.cpp (修改后)
+document_store.cpp
 #include "document_store.h"
 #include <iostream>
 #include <sstream>
