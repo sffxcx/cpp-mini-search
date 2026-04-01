@@ -176,8 +176,7 @@ curl http://localhost:8080/status
 
 ## 📄 Лицензия
 
-Использую MIT License.
-MIT License
+Использую MIT License
 
 ## 👨‍💻 Автор
 
