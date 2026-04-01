@@ -1,7 +1,4 @@
---- MiniSearch/include/document_store.h (原始)
-
-
-+++ MiniSearch/include/document_store.h (修改后)
+document_store.h
 #ifndef DOCUMENT_STORE_H
 #define DOCUMENT_STORE_H
 
