@@ -1,7 +1,4 @@
---- MiniSearch/include/search_engine.h (原始)
-
-
-+++ MiniSearch/include/search_engine.h (修改后)
+search_engine.h 
 #ifndef SEARCH_ENGINE_H
 #define SEARCH_ENGINE_H
 
