@@ -1,8 +1,4 @@
---- .gitignore (原始)
-
-
-+++ .gitignore (修改后)
-```
++++ .gitignore 
 # Build artifacts
 CMakeFiles/
 cmake-build-*/
