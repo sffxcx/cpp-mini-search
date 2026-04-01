@@ -1,7 +1,4 @@
---- MiniSearch/src/text_parser.cpp (原始)
-
-
-+++ MiniSearch/src/text_parser.cpp (修改后)
+text_parser.cpp
 #include "text_parser.h"
 #include <algorithm>
 #include <cctype>
