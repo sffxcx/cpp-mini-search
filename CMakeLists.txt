@@ -1,7 +1,4 @@
---- MiniSearch/CMakeLists.txt (原始)
-
-
-+++ MiniSearch/CMakeLists.txt (修改后)
+CMakeLists.txt
 cmake_minimum_required(VERSION 3.10)
 project(MiniSearch VERSION 1.0.0 LANGUAGES CXX)
 
