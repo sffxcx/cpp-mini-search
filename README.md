@@ -1,7 +1,4 @@
---- MiniSearch/README.md (原始)
-
-
-+++ MiniSearch/README.md (修改后)
+README.md
 # MiniSearch - Локальный движок полнотекстового поиска на C++17
 
 ## 🎯 Описание проекта
@@ -179,6 +176,7 @@ curl http://localhost:8080/status
 
 ## 📄 Лицензия
 
+Использую MIT License.
 MIT License
 
 ## 👨‍💻 Автор
