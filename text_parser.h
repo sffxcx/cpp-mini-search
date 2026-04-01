@@ -1,7 +1,4 @@
---- MiniSearch/include/text_parser.h (原始)
-
-
-+++ MiniSearch/include/text_parser.h (修改后)
+text_parser.h
 #ifndef TEXT_PARSER_H
 #define TEXT_PARSER_H
 
