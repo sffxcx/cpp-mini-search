@@ -36,7 +36,13 @@ set(HEADERS
 )
 
 # Создаем исполняемый файл
-add_executable(minisearch ${SOURCES} ${HEADERS})
+add_executable(minisearch
+    main.cpp
+    document_store.cpp
+    search_engine.cpp
+    http_server.cpp
+    text_parser.cpp
+)
 
 # Линкуем библиотеки
 target_link_libraries(minisearch
