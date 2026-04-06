@@ -1,4 +1,3 @@
-text_parser.cpp
 #include "text_parser.h"
 #include <algorithm>
 #include <cctype>
