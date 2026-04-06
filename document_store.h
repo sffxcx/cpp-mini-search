@@ -1,4 +1,3 @@
-document_store.h
 #ifndef DOCUMENT_STORE_H
 #define DOCUMENT_STORE_H
 
