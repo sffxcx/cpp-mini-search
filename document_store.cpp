@@ -1,4 +1,3 @@
-document_store.cpp
 #include "document_store.h"
 #include <iostream>
 #include <sstream>
